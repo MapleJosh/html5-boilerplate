@@ -8,4 +8,4 @@ dist
 /userInfo.py
 
 #folders
-text/
+text/*.txt
