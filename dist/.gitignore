@@ -4,4 +4,8 @@
 node_modules
 dist
 .cache
+#files
 /userInfo.py
+
+#folders
+text/
